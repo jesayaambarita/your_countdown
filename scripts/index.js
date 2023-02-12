@@ -4,9 +4,9 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Feb 16, 2023',
-  name: 'Febrianti Lumban Gaol',
-  lanjut: 'Semoga Dilancarkan Studi nya Dan Sehat Selalu'
+  birthdate: 'Feb 22, 2023',
+  name: 'Mirelda Patricia Sihotang',
+  lanjut: 'Semoga Dilancarkan Kuliah nya Dan Sehat Selalu'
 };
 
 function hideEverything() {
