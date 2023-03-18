@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Feb 22, 2023',
-  name: 'Mirelda Patricia Sihotang',
+  birthdate: 'April 21, 2023',
+  name: 'Jesaya Sohasuhatan Ambarita',
   lanjut: 'Semoga Dilancarkan Kuliah nya Dan Sehat Selalu'
 };
 
